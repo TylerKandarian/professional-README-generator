@@ -1,11 +1,11 @@
-const inquirer = ("inquirer");
-const fs = require("fs");
-const generateMarkdown = require("./utils/generateMarkdown")
+const inquirer = require('inquirer');
+const fs = require('fs');
+const generatePage = require('./utils/generateMarkdown')
 
 //array of questions
 const questions = () => {
     // using inquirer to prompt questions to user 
-    return inquirer.prompt([
+    return inquirer.prompt ([
     {
         type: 'input',
         name: 'github',
