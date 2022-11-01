@@ -5,12 +5,12 @@ return `# ${data.title}
 ## Description 
 ${data.description}
 ## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
     
 ## Installation 
 ${data.install}
@@ -28,7 +28,8 @@ ${data.contributors}
 ${data.test}
 
 ## Questions
-If you have any questions about this project, please email at ${data.email}. You can view more of my work at https://github.com/${data.github}.
+If you have any questions about this project, please email at ${data.email}. 
+You can view more of my work at https://github.com/${data.github}.
 `;
 }
   

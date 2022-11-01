@@ -41,4 +41,4 @@ npm test
 
 ## Questions
 
-If you have any questions about this project, please email me at Tyler.Kand2@gmail.com. You can view more of my work at https://github.com/TylerKandarian.
+If you have any questions, please email me at Tyler.Kand2@gmail.com. You can also view more of my work at https://github.com/TylerKandarian.
